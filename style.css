@@ -531,4 +531,51 @@
 
 .iphone {
   width: 90%;
+}
+
+.header7 {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.section7 {
+  width: 100%;
+  height: 600px;
+}
+
+.txtsection7 {
+  padding-top: 10%;
+}
+
+.imaas {
+  justify-content: center;
+  display: flex;
+  gap: 50px;
+}
+
+.imaas img {
+  width: 280px;
+  border-radius: 10px;
+}
+
+.notm {
+  margin-top: 10px;
+  color: #0A093D;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.notm2 {
+  margin-top: 20px;
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.notm3 {
+  margin-top: 20px;
+  color: #217BF4;
+  font-size: 15px;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
